@@ -1,0 +1,27 @@
+{
+  "name": "openchat-translator",
+  "version": "1.0.0",
+  "description": "OpenChat Translator is an AI-powered multilingual chat app that translates messages in real-time using OpenAI, enabling seamless communication between users speaking different languages via a sim...",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.13.11",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^17.0.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "express-session": "^1.18.1",
+    "openai": "^5.8.2",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
