@@ -34,8 +34,8 @@ A full-stack messaging application where users can log in with their name and pr
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/multilingual-messaging-app.git
-cd multilingual-messaging-app
+git clone https://github.com/parshavshah/openchat-translator.git
+cd openchat-translator
 ````
 
 ### 2. Install Dependencies
